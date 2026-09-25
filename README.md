@@ -2,7 +2,7 @@
 
 This is where members can find resources on contributing to the ISSA Collin College Github
 
-For information on contributing, please see the [CONTRIBUTING.md](https://github.com/ISSA-CollinCollege/Getting-Started/blob/c20b7feaeafe7b25ac7eb1904b20eb071993e347/Getting-Started/CONTRIBUTING.md) page in the Getting-Started folder.
+For information on contributing, please see the [CONTRIBUTING.md](Getting-Started/CONTRIBUTING.md) page in the Getting-Started folder.
 
 If you have never used Github or git please check out the resources below:
 
