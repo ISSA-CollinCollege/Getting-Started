@@ -61,6 +61,6 @@
     
     
 ## Need Help?
-    If you are stuck on the Git process or aren't sure where to start, don't hesitate to ask in the chapter Discord or 
+    If you are stuck on the Git process or aren't sure where to start, don't hesitate to ask in MS Teams or 
     reach out to a maintainer. 
     We were all beginners once; the only "bad" question is the one you didn't ask.
